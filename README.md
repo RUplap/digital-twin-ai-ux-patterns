@@ -1,4 +1,10 @@
-# Digital Twin AI UX Patterns
+## Product Overview
+
+![AI Digital Twin facilities management dashboard](digital-twin-facilities-overview.png)
+
+The Facilities Management experience brings building visualization, real-time utility data, infrastructure health, maintenance activity, and critical alerts into one operational workspace.
+
+It helps community and facility managers identify risks, understand building conditions, and prioritize the next action.# Digital Twin AI UX Patterns
 
 A conceptual AI-powered Digital Twin platform for residential communities.
 
