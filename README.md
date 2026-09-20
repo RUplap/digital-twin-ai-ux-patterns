@@ -227,3 +227,4 @@ digital-twin-ai-ux-patterns/
 └── research/
     ├── README.md
     └── digital-twin-ai-ux-research.pdf
+Copyright@rohanuplap
